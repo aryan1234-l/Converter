@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ toBinary(int)
+comment3.params=decimal
+comment3.target=java.lang.String\ toHex(int)
+comment4.params=decimal
+comment4.target=java.lang.String\ toOctal(int)
+numComments=5
