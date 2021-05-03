@@ -11,5 +11,5 @@ A and in octa decimal it's- 12.
 
 ------------------------------------------------------------------------------------------------------------
 DATE: 3/2/2021
-AUTHORS: Aryan Gupta, Arihant Shukla.
+AUTHORS: Aryan Gupta.
 
